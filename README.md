@@ -45,7 +45,7 @@ WEMOS питается от разъема USB-C на самой плате.
 
 В репозитории проекта есть 3D модели для печати на 3D принтере. Если используете указанные компоненты, корпус можно просто напечатать (или заказать печать).
 
-![Схема SmartOLED](https://github.com/AntennaNaStolbe/SmartSpray/blob/main/scheme.png)
+![Схема SmartOLED](https://github.com/AntennaNaStolbe/SmartOLED/blob/main/Scheme.png)
 
 ---
 
