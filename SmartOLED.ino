@@ -14,7 +14,7 @@
   - GyverPortal
   - EEPROM
 
-  Интеграция: AntennaNS для Home Assistant
+  Интеграция: MQTT
   Автор: AntennaNS
 */
 
